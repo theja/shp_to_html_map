@@ -109,7 +109,7 @@ text_box = """
         <tr><td><b> <hr style="border: 2px solid yellow"> </b></td> <td = style="padding: 0 0 0 1em">Contraflow street</td></tr>
         <tr><td><b> <hr style="border: 2px solid green"> </b></td> <td = style="padding: 0 0 0 1em">Not local or oneway</td></tr>
         <tr><td><b>Notes:</b></td> <td = style="padding: 0 0 0 1em">Line thickness represents the link's importance to network.
-        See <a href="url">this paper</a> for more details.</td></tr>
+        See <a href="https://theja.github.io/research_projects/contraflow_paper_accepted.pdf" target="_blank">this paper</a> for more details.</td></tr>
     </table>
 </div>
 {% endmacro %}"""
